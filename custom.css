@@ -1,0 +1,16 @@
+body {
+  background: #f7f8fb;
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0b1020, #102a43);
+}
+
+.gap-2 > * {
+  margin-right: .5rem;
+}
